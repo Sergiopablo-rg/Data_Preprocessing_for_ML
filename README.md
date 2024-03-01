@@ -15,5 +15,5 @@ This repo contains several files:
   - outliers.jpg
   - pca.jpg
   - tukeyiqr.jpg
--Youtube Link
-  -https://www.youtube.com/watch?v=V0u6bxQOUJ8&list=WL&index=12&t=776s
+- Youtube Link:
+  - https://www.youtube.com/watch?v=V0u6bxQOUJ8&list=WL&index=12&t=776s
